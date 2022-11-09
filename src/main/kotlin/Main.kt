@@ -22,7 +22,6 @@ fun main(args: Array<String>) {
     var individuo3 = Individual()
 
 
-
     println("Individuo 1:")
     println(individuo1.toString())
     println("*********************")
@@ -34,5 +33,4 @@ fun main(args: Array<String>) {
     println("*********************")
 
 
-    //Creando la rama developer-.-
 }
