@@ -32,5 +32,6 @@ fun main(args: Array<String>) {
     println(individuo2.toString())
     println("*********************")
 
-
+    //creando la rama developer
+    //feature 2
 }
